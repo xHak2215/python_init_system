@@ -1,0 +1,12 @@
+{
+    "path":[
+        {"dir":"/home/pc/stars_bot", "venv_dir":"venv", "run_file":"start.py"},
+        {"dir":"/home/pc/data_https_server", "venv_dir":"cenv", "run_file":"main.py"},
+        {"dir":"/home/pc/auto_start_protacol/file_telegram_mesenger", "venv_dir":"venv", "run_file":"main.py"},
+        {"dir":"/home/pc/Рабочий_стол/admin_trlrgram_bot", "venv_dir":"virtual", "run_file":"aea_bot2.py"},
+        {"dir":"/home/pc/auto_start_protacol/bytesoft", "venv_dir":"venv", "run_file":"main.py"},
+        {"dir":"/home/pc/auto_start_protacol/war_bot", "venv_dir":"venv", "run_file":"main.py"}
+
+    ]
+
+}

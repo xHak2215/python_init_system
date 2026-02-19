@@ -1,0 +1,5 @@
+{
+    "path":[
+        {"dir":"/home/pc/auto_start_protacol", "venv_dir":"venv", "run_file":"test_deamon.py"}
+    ]
+}
